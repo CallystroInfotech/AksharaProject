@@ -1,0 +1,59 @@
+﻿{"frames": [
+
+{
+	"filename": "<Group>_6_0 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":296,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":227},
+	"sourceSize": {"w":296,"h":227}
+}
+,{
+	"filename": "<Group>_6_0 copy instance 10001",
+	"frame": {"x":0,"y":227,"w":296,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":227},
+	"sourceSize": {"w":296,"h":227}
+}
+,{
+	"filename": "<Group>_6_0 copy instance 10002",
+	"frame": {"x":296,"y":0,"w":296,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":227},
+	"sourceSize": {"w":296,"h":227}
+}
+,{
+	"filename": "<Group>_6_0 copy instance 10003",
+	"frame": {"x":296,"y":227,"w":296,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":227},
+	"sourceSize": {"w":296,"h":227}
+}
+,{
+	"filename": "a1",
+	"frame": {"x":592,"y":0,"w":296,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":227},
+	"sourceSize": {"w":296,"h":227}
+}
+,{
+	"filename": "a2",
+	"frame": {"x":592,"y":227,"w":296,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":227},
+	"sourceSize": {"w":296,"h":227}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "H3.png",
+	"format": "RGB8",
+	"size": {"w":935,"h":468},
+	"scale": "1"
+}
+}

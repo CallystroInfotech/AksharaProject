@@ -1,0 +1,2 @@
+1. math-html-master-15 released on 28th Feb, 2018.
+Contains all Callystro Games integrated with telemetry. Points to the production server.
