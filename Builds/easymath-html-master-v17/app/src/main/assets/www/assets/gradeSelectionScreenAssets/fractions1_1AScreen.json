@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 6 copy 52 instance 10000",
+	"frame": {"x":0,"y":0,"w":143,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":147,"h":113},
+	"sourceSize": {"w":147,"h":113}
+}
+,{
+	"filename": "Symbol 6 copy 52 instance 10001",
+	"frame": {"x":0,"y":111,"w":147,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":113},
+	"sourceSize": {"w":147,"h":113}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Pin Wheel1.1A.png",
+	"format": "RGB8",
+	"size": {"w":159,"h":232},
+	"scale": "1"
+}
+}

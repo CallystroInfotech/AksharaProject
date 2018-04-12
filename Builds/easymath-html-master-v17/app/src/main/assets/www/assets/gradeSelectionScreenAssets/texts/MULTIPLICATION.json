@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 18 copy 13 instance 10000",
+	"frame": {"x":0,"y":0,"w":214,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":46},
+	"sourceSize": {"w":214,"h":46}
+}
+,{
+	"filename": "Symbol 18 copy 13 instance 10001",
+	"frame": {"x":0,"y":46,"w":214,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":46},
+	"sourceSize": {"w":214,"h":46}
+}
+,{
+	"filename": "Symbol 18 copy 13 instance 10002",
+	"frame": {"x":0,"y":92,"w":214,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":46},
+	"sourceSize": {"w":214,"h":46}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "MULTIPLICATION.png",
+	"format": "RGB8",
+	"size": {"w":218,"h":142},
+	"scale": "1"
+}
+}

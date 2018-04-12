@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 34 copy 11 instance 10000",
+	"frame": {"x":0,"y":0,"w":117,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":4,"w":184,"h":49},
+	"sourceSize": {"w":184,"h":49}
+}
+,{
+	"filename": "Symbol 34 copy 11 instance 10001",
+	"frame": {"x":0,"y":45,"w":184,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":184,"h":49},
+	"sourceSize": {"w":184,"h":49}
+}
+,{
+	"filename": "Symbol 34 copy 11 instance 10002",
+	"frame": {"x":0,"y":93,"w":127,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":184,"h":49},
+	"sourceSize": {"w":184,"h":49}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Mr. Caterpillar 2.1.1.png",
+	"format": "RGB8",
+	"size": {"w":192,"h":159},
+	"scale": "1"
+}
+}

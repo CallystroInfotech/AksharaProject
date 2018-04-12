@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 34 copy 6 instance 10000",
+	"frame": {"x":0,"y":0,"w":137,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":3,"w":161,"h":49},
+	"sourceSize": {"w":161,"h":49}
+}
+,{
+	"filename": "Symbol 34 copy 6 instance 10001",
+	"frame": {"x":0,"y":46,"w":161,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":161,"h":49},
+	"sourceSize": {"w":161,"h":49}
+}
+,{
+	"filename": "Symbol 34 copy 6 instance 10002",
+	"frame": {"x":0,"y":94,"w":137,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":161,"h":49},
+	"sourceSize": {"w":161,"h":49}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Counting flowers 1.4.png",
+	"format": "RGB8",
+	"size": {"w":171,"h":152},
+	"scale": "1"
+}
+}

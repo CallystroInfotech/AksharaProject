@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 34 copy 7 instance 10000",
+	"frame": {"x":0,"y":0,"w":205,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":34},
+	"sourceSize": {"w":205,"h":34}
+}
+,{
+	"filename": "Symbol 34 copy 7 instance 10001",
+	"frame": {"x":0,"y":34,"w":205,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":34},
+	"sourceSize": {"w":205,"h":34}
+}
+,{
+	"filename": "Symbol 34 copy 7 instance 10002",
+	"frame": {"x":0,"y":68,"w":205,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":34},
+	"sourceSize": {"w":205,"h":34}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Bursting bubbles.png",
+	"format": "RGB8",
+	"size": {"w":216,"h":118},
+	"scale": "1"
+}
+}

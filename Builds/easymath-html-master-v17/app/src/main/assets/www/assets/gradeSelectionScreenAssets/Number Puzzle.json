@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 34 copy 12 instance 10000",
+	"frame": {"x":0,"y":0,"w":122,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":3,"w":136,"h":34},
+	"sourceSize": {"w":136,"h":34}
+}
+,{
+	"filename": "Symbol 34 copy 12 instance 10001",
+	"frame": {"x":0,"y":26,"w":107,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":1,"w":136,"h":34},
+	"sourceSize": {"w":136,"h":34}
+}
+,{
+	"filename": "Symbol 34 copy 12 instance 10002",
+	"frame": {"x":0,"y":59,"w":136,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":34},
+	"sourceSize": {"w":136,"h":34}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Number Puzzle.png",
+	"format": "RGB8",
+	"size": {"w":155,"h":102},
+	"scale": "1"
+}
+}

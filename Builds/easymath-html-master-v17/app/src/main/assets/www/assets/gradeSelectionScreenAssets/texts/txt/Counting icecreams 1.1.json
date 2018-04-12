@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 34 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":155,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":3,"w":213,"h":48},
+	"sourceSize": {"w":213,"h":48}
+}
+,{
+	"filename": "Symbol 34 copy 2 instance 10001",
+	"frame": {"x":0,"y":45,"w":213,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":213,"h":48},
+	"sourceSize": {"w":213,"h":48}
+}
+,{
+	"filename": "Symbol 34 copy 2 instance 10002",
+	"frame": {"x":0,"y":92,"w":185,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":213,"h":48},
+	"sourceSize": {"w":213,"h":48}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Counting icecreams 1.1.png",
+	"format": "RGB8",
+	"size": {"w":216,"h":145},
+	"scale": "1"
+}
+}

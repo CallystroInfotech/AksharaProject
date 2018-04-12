@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 34 copy 36 instance 10000",
+	"frame": {"x":0,"y":0,"w":115,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":4,"w":166,"h":49},
+	"sourceSize": {"w":166,"h":49}
+}
+,{
+	"filename": "Symbol 34 copy 36 instance 10001",
+	"frame": {"x":0,"y":45,"w":166,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":166,"h":49},
+	"sourceSize": {"w":166,"h":49}
+}
+,{
+	"filename": "Symbol 34 copy 36 instance 10002",
+	"frame": {"x":0,"y":93,"w":122,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":166,"h":49},
+	"sourceSize": {"w":166,"h":49}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Hungry rabbit 6.1.png",
+	"format": "RGB8",
+	"size": {"w":168,"h":156},
+	"scale": "1"
+}
+}

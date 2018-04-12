@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 34 copy 22 instance 10000",
+	"frame": {"x":0,"y":0,"w":96,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":100,"h":48},
+	"sourceSize": {"w":100,"h":48}
+}
+,{
+	"filename": "Symbol 34 copy 22 instance 10001",
+	"frame": {"x":0,"y":45,"w":99,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":100,"h":48},
+	"sourceSize": {"w":100,"h":48}
+}
+,{
+	"filename": "Symbol 34 copy 22 instance 10002",
+	"frame": {"x":0,"y":93,"w":95,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":100,"h":48},
+	"sourceSize": {"w":100,"h":48}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "A for Apple 11.1.png",
+	"format": "RGB8",
+	"size": {"w":113,"h":156},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 68 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":95,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":94},
+	"sourceSize": {"w":95,"h":94}
+}
+,{
+	"filename": "Symbol 68 copy 2 instance 10001",
+	"frame": {"x":0,"y":94,"w":95,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":94},
+	"sourceSize": {"w":95,"h":94}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "34.png",
+	"format": "RGB8",
+	"size": {"w":103,"h":196},
+	"scale": "1"
+}
+}

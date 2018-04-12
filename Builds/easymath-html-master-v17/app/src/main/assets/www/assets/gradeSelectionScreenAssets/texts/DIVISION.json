@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 18 copy 14 instance 10000",
+	"frame": {"x":0,"y":0,"w":116,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":4,"w":159,"h":46},
+	"sourceSize": {"w":159,"h":46}
+}
+,{
+	"filename": "Symbol 18 copy 14 instance 10001",
+	"frame": {"x":0,"y":36,"w":157,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":159,"h":46},
+	"sourceSize": {"w":159,"h":46}
+}
+,{
+	"filename": "Symbol 18 copy 14 instance 10002",
+	"frame": {"x":0,"y":81,"w":159,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":46},
+	"sourceSize": {"w":159,"h":46}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Level selection.png",
+	"format": "RGB8",
+	"size": {"w":166,"h":134},
+	"scale": "1"
+}
+}
