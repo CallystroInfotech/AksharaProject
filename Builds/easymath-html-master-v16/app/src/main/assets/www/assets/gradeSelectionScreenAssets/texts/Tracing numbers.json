@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 34 copy 8 instance 10000",
+	"frame": {"x":0,"y":0,"w":214,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":35},
+	"sourceSize": {"w":214,"h":35}
+}
+,{
+	"filename": "Symbol 34 copy 8 instance 10001",
+	"frame": {"x":0,"y":35,"w":214,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":35},
+	"sourceSize": {"w":214,"h":35}
+}
+,{
+	"filename": "Symbol 34 copy 8 instance 10002",
+	"frame": {"x":0,"y":70,"w":214,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":35},
+	"sourceSize": {"w":214,"h":35}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Tracing numbers.png",
+	"format": "RGB8",
+	"size": {"w":216,"h":118},
+	"scale": "1"
+}
+}

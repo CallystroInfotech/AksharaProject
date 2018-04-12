@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 35 copy 7 instance 10000",
+	"frame": {"x":0,"y":0,"w":96,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":33},
+	"sourceSize": {"w":96,"h":33}
+}
+,{
+	"filename": "Symbol 35 copy 7 instance 10001",
+	"frame": {"x":0,"y":33,"w":96,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":33},
+	"sourceSize": {"w":96,"h":33}
+}
+,{
+	"filename": "Symbol 35 copy 7 instance 10002",
+	"frame": {"x":0,"y":66,"w":96,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":33},
+	"sourceSize": {"w":96,"h":33}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "5.4 d.png",
+	"format": "RGB8",
+	"size": {"w":109,"h":114},
+	"scale": "1"
+}
+}
