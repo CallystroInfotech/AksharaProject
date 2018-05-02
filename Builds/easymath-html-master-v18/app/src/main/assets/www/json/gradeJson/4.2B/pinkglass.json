@@ -1,0 +1,155 @@
+﻿{"frames": [
+
+{
+	"filename": "<Group>_454 instance 10000",
+	"frame": {"x":0,"y":0,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10001",
+	"frame": {"x":0,"y":226,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10002",
+	"frame": {"x":0,"y":452,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10003",
+	"frame": {"x":0,"y":678,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10004",
+	"frame": {"x":178,"y":0,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10005",
+	"frame": {"x":356,"y":0,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10006",
+	"frame": {"x":534,"y":0,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10007",
+	"frame": {"x":712,"y":0,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10008",
+	"frame": {"x":178,"y":226,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10009",
+	"frame": {"x":178,"y":452,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10010",
+	"frame": {"x":178,"y":678,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10011",
+	"frame": {"x":356,"y":226,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10012",
+	"frame": {"x":534,"y":226,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10013",
+	"frame": {"x":712,"y":226,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10014",
+	"frame": {"x":356,"y":452,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "<Group>_454 instance 10015",
+	"frame": {"x":356,"y":678,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "a1",
+	"frame": {"x":534,"y":452,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}
+,{
+	"filename": "a2",
+	"frame": {"x":534,"y":678,"w":178,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":226},
+	"sourceSize": {"w":178,"h":226}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.5.1.104",
+	"image": "13.png",
+	"format": "RGB8",
+	"size": {"w":912,"h":908},
+	"scale": "1"
+}
+}

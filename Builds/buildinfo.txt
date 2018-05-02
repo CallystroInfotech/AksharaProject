@@ -9,3 +9,8 @@ Defect fixes
 Contains Journeys 2,3,7,10,17.2
 Defect fixes
 
+4. math-html-master-v18 release on 25th April
+The new journeys 4, 12, 13, 14, 15
+Inclusion of Oriya language
+Demo scripts for coin machine games and 14.1 and 14.2
+Defect fixes (not too many defects fixed in this release) marked as V0.18 

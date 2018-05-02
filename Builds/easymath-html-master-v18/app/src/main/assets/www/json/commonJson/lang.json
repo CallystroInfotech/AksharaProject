@@ -1,0 +1,629 @@
+{ 
+    "en": { 
+		"grade1": "Class 1",
+		"grade2": "Class 2",
+		"grade3": "Class 3",
+		"grade4": "Class 4",
+        "fractionTitle": "FRACTIONS", 
+        "fraction1_1ADesc": "Pin Wheel 1.1 A", 
+        "fraction1_1BDesc": "Pin Wheel 1.1 B", 
+        "fraction1_2ADesc": "Pin Wheel 1.2 A", 
+        "fraction1_2BDesc": "Pin Wheel 1.2 B", 
+        "fraction1_2CDesc": "Pin Wheel 1.2 C", 
+		
+		"lengthTitle":"LENGTH",
+		"length2_ADesc":"Length 2.1 A",
+		"length2_BDesc":"Length 2.1 B",
+		"length2_2Desc":"Length 2.2",
+		"length2_3Desc":"Length 2.3",
+		"length2_4ADesc":"Length 2.4 A",
+		"length2_4BDesc":"Length 2.4 B",
+		
+		"weightTitle":"WEIGHT",
+		"weight3_1Desc":"Weight 3.1",
+		"weight3_2ADesc":"Weight 3.2 A",
+		"weight3_2BDesc":"Weight 3.2 B",
+		"weight3_2CDesc":"Weight 3.2 C",
+		"weight3_2DDesc":"Weight 3.2 D",
+		"weight3_3ADesc":"Weight 3.3 A",
+		"weight3_3B1Desc":"Weight 3.3 B1",
+		"weight3_3B2Desc":"Weight 3.3 B2",
+		
+		"volumeTitle":"VOLUME",
+		"volume4_1ADesc":"Volume 4.1 A",
+		"volume4_1BDesc":"Volume 4.1 B",
+		"volume4_1CDesc":"Volume 4.1 C",
+		"volume4_2ADesc":"Volume 4.2 A",
+		"volume4_2BDesc":"Volume 4.2 B",
+		"volume4_2CDesc":"Volume 4.2 C",
+		"volume4_3ADesc":"Volume 4.3 A",
+		"volume4_3BDesc":"Volume 4.3 B",
+		"volume4_3CDesc":"Volume 4.3 C",
+		
+		"timeTitle":"Time",
+		"time5_1Desc":"Time 5.1",
+		"time5_2Desc":"Time 5.2",
+		"time5_4Desc":"Time 5.4",
+		"time6_1Desc":"Time 6.1",
+		"time6_2Desc":"Time 6.2",
+		"time7_1Desc":"Time 7.1",
+		"time7_2Desc":"Time 7.2",
+
+		"numberTitle":"NUMBERS",
+		"CountingIcecreams" : "Counting Icecreams\n1.1",
+		"PluckingMangoes" : "Plucking Mangoes\n1.2",
+		"CountingFish" : "Counting Fish\n1.3",
+		"CountingFlowers" : "Counting Flowers\n1.4",
+		"PluckingMangoes" : "Plucking Mangoes\n1.5",
+		"BurstingBubbles" : "Bursting Bubbles\n1.6",
+		"TracingNumbers" : "Tracing Numbers\n1.7",
+
+		"TheCrocodile4_1_1" : "The Crocodile\n4.1.1",
+		"TheCrocodile4_2_1" : "The Crocodile\n4.2.1",
+		"TheCrocodile4_3_1" : "The Crocodile\n4.3.1",
+		"TreeClimbing4_4_1" : "Tree Climbing\n4.4.1",
+		"TreeClimbing4_5_1" : "Tree Climbing\n4.5.1",
+
+		"TheCrocodile4_3_2" : "The Crocodile\n4.3.2",
+		"TreeClimbing4_4_2" : "Tree Climbing\n4.4.2",
+		"TreeClimbing4_5_2" : "Tree Climbing\n4.5.2",
+		"TreeClimbing4_5_2" : "Tree Climbing\n4.5.2",
+		"SmallorBig4_6_1" : "Small or Big\n4.6.1",
+
+		"TheCrocodile4_3_3" : "The Crocodile\n4.3.3",
+		"TreeClimbing4_4_3" : "Tree Climbing\n4.4.3",
+		"TreeClimbing4_5_3" : "Tree Climbing\n4.5.3",
+		"TreeClimbing4_5_3" : "Tree Climbing\n4.5.3",
+		"SmallorBig4_6_2" : "Small or Big\n4.6.2",
+
+
+		"sequenceTitle":"SEQUENCE",
+		"MrCaterpillar2_1_1":"Mr. Caterpillar\n2.1.1",
+		"MrCaterpillar2_2_1":"Mr. Caterpillar\n2.2.1",
+		"MrCaterpillar2_3_1":"Mr. Caterpillar\n2.3.1",
+		"MrCaterpillar2_4_1":"Mr. Caterpillar\n2.4.1",
+		"MrCaterpillar2_5_1":"Mr. Caterpillar\n2.5.1",
+		"NumberPuzzle2_6_1":"Number Puzzle\n2.6.1",
+
+		"MrCaterpillar2_1_2":"Mr. Caterpillar\n2.1.2",
+		"MrCaterpillar2_2_2":"Mr. Caterpillar\n2.2.2",
+		"MrCaterpillar2_3_2":"Mr. Caterpillar\n2.3.2",
+		"MrCaterpillar2_4_2":"Mr. Caterpillar\n2.4.2",
+		"MrCaterpillar2_5_2":"Mr. Caterpillar\n2.5.2",
+		"NumberPuzzle2_6_2":"Number Puzzle\n2.6.2",
+
+		"MrCaterpillar2_1_3":"Mr. Caterpillar\n2.1.3",
+		"MrCaterpillar2_2_3":"Mr. Caterpillar\n2.2.3",
+		"MrCaterpillar2_3_3":"Mr. Caterpillar\n2.3.3",
+		"MrCaterpillar2_4_3":"Mr. Caterpillar\n2.4.3",
+		"MrCaterpillar2_5_3":"Mr. Caterpillar\n2.5.3",
+		"NumberPuzzle2_6_3":"Number Puzzle\n2.6.3",
+
+		"placeValueTitle":"Place Value",
+		"CoinMachine3_1_1":"Coin Machine\n3.1.1",
+		"CoinMachine3_2_1":"Coin Machine\n3.2.1",
+
+		"CoinMachine3_1_2":"Coin Machine\n3.1.2",
+		"CoinMachine3_2_2":"Coin Machine\n3.2.2",
+
+
+		"additionTitle":"ADDITION",
+		"HungryRabbit5_1":"Hungry Rabbit\n5.1",
+		"HungryRabbit6_1":"Hungry Rabbit\n6.1",
+		"CoinMachine7_1_1":"Coin Machine\n7.1.1",
+		"CoinMachine7_2_1":"Coin Machine\n7.2.1",
+
+		"CoinMachine7_1_2":"Coin Machine\n7.1.2",
+		"CoinMachine7_2_2":"Coin Machine\n7.2.2",
+
+		"CoinMachine7_1_3":"Coin Machine\n7.1.3",
+		"CoinMachine7_2_3":"Coin Machine\n7.2.3",
+
+		"subtractionTitle":"SUBTRACTION",
+		"HungryRabbit8_1":"Hungry Rabbit\n8.1",
+		"CoinMachine10_1_1":"Coin Machine\n10.1.1",
+		"CoinMachine10_2_1":"Coin Machine\n10.2.1",
+
+		"CoinMachine10_1_2":"Coin Machine\n10.1.2",
+		"CoinMachine10_2_2":"Coin Machine\n10.2.2",
+
+		"CoinMachine10_1_3":"Coin Machine\n10.1.3",
+		"CoinMachine10_2_3":"Coin Machine\n10.2.3",
+
+
+		"multiplicationTitle":"MULTIPLICATION",
+		"AforApple11_1":"A for Apple\n11.1",
+		"AforApple11_2":"A for Apple\n11.2",
+
+		"Mulitiplication12_1":"Eggs in a crate\n12.1",
+		"Mulitiplication12_2":"Eggs in a crate\n12.2",
+		"Mulitiplication12_3_1":"Eggs in a crate\n12.3.1",
+		"Mulitiplication12_3_2":"Eggs in a crate\n12.3.2",
+		"Mulitiplication12_3_3":"Eggs in a crate\n12.3.3",
+
+		"Mulitiplication13_1":"Grid puzzle\n13.1",
+		"Mulitiplication14_1":"Grid puzzle\n14.1",
+		"Mulitiplication14_2":"Grid puzzle\n14.2",
+
+		"divisionTitle":"DIVISION",
+		"FishInATank15_1":"Fish in a tank\n15.1",
+		"FishInATank15_2":"Fish in a tank\n15.2",
+
+		"CoinMachine17_2":"Coin Machine\n17.2",
+		"CoinMachine17_3":"Coin Machine\n17.3"
+
+
+    }, 
+    "hn": { 
+		"grade1": "क्लास 1",
+		"grade2": "क्लास 2",
+		"grade3": "क्लास 3",
+		"grade4": "क्लास 4",
+		
+        "fractionTitle": "फिर्की", 
+        "fraction1_1ADesc": "फिर्की 1.1 A", 
+        "fraction1_1BDesc": "फिर्की 1.1 B ", 
+        "fraction1_2ADesc": "फिर्की 1.2 A", 
+        "fraction1_2BDesc": "फिर्की 1.2 B ", 
+        "fraction1_2CDesc": "फिर्की 1.2 C", 
+		
+		"lengthTitle":"लम्बाई",
+		"length2_ADesc":"लम्बाई 2.1 A",
+		"length2_BDesc":"लम्बाई 2.1 B",
+		"length2_2Desc":"लम्बाई 2.2",
+		"length2_3Desc":"लम्बाई 2.3",
+		"length2_4ADesc":"लम्बाई 2.4 A",
+		"length2_4BDesc":"लम्बाई 2.4 B ",
+		
+		"weightTitle":"वज़न",
+		"weight3_1Desc":"वज़न 3.1",
+		"weight3_2ADesc":"वज़न 3.2 A",
+		"weight3_2BDesc":"वज़न 3.2 B",
+		"weight3_2CDesc":"वज़न 3.2 C",
+		"weight3_2DDesc":"वज़न 3.2 D",
+		"weight3_3ADesc":"वज़न 3.3 A",
+		"weight3_3B1Desc":"वज़न 3.3 B1",
+		"weight3_3B2Desc":"वज़न 3.3 B2",
+		
+		"volumeTitle":"मात्रा",
+		"volume4_1ADesc":"मात्रा 4.1 A",
+		"volume4_1BDesc":"मात्रा 4.1 B",
+		"volume4_1CDesc":"मात्रा 4.1 C",
+		"volume4_2ADesc":"मात्रा 4.2 A",
+		"volume4_2BDesc":"मात्रा 4.2 B",
+		"volume4_2CDesc":"मात्रा 4.2 C",
+		"volume4_3ADesc":"मात्रा 4.3 A",
+		"volume4_3BDesc":"मात्रा 4.3 B",
+		"volume4_3CDesc":"मात्रा 4.3 C",
+		
+		
+		"timeTitle":"समय",
+		"time5_1Desc":"समय 5.1",
+		"time5_2Desc":"समय 5.2",
+		"time5_4Desc":"समय 5.4",
+		"time6_1Desc":"समय 6.1",
+		"time6_2Desc":"समय 6.2",
+		"time7_1Desc":"समय 7.1",
+		"time7_2Desc":"समय 7.2",
+
+		"numberTitle":"संख्या",
+		"CountingIcecreams" : "आइसक्रीम की गिनती\n1.1",
+		"PluckingMangoes" : "आमों को तोड़ना\n1.2",
+		"CountingFish" : "मछलियों की गिनती\n1.3",
+		"CountingFlowers" : "फूलों की गिनती\n1.4",
+		"PluckingMangoes" : "आमों को तोड़ना\n1.5",
+		"BurstingBubbles" : "बुलबुलों को फोड़ना\n1.6",
+		"TracingNumbers" : "अंकों का पता लगाना\n1.7",
+
+		"TheCrocodile4_1_1" : "मगरमच्छ\n4.1.1",
+		"TheCrocodile4_2_1" : "मगरमच्छ\n4.2.1",
+		"TheCrocodile4_3_1" : "मगरमच्छ\n4.3.1",
+		"TreeClimbing4_4_1" : "पेड़ पर चढ़ना\n4.4.1",
+		"TreeClimbing4_5_1" : "पेड़ पर चढ़ना\n4.5.1",
+
+		"TheCrocodile4_3_2" : "मगरमच्छ\n4.3.2",
+		"TreeClimbing4_4_2" : "पेड़ पर चढ़ना\n4.4.2",
+		"TreeClimbing4_5_2" : "पेड़ पर चढ़ना\n4.5.2",
+		"TreeClimbing4_5_2" : "पेड़ पर चढ़ना\n4.5.2",
+		"SmallorBig4_6_1" : "छोटा या बड़ा\n4.6.1",
+
+		"TheCrocodile4_3_3" : "मगरमच्छ\n4.3.3",
+		"TreeClimbing4_4_3" : "पेड़ पर चढ़ना\n4.4.3",
+		"TreeClimbing4_5_3" : "पेड़ पर चढ़ना\n4.5.3",
+		"TreeClimbing4_5_3" : "पेड़ पर चढ़ना\n4.5.3",
+		"SmallorBig4_6_2" : "छोटा या बड़ा\n4.6.2",
+
+
+		"sequenceTitle":"अनुक्रम",
+		"MrCaterpillar2_1_1":"श्रीमान कैटरपिलर\n2.1.1",
+		"MrCaterpillar2_2_1":"श्रीमान कैटरपिलर\n2.2.1",
+		"MrCaterpillar2_3_1":"श्रीमान कैटरपिलर\n2.3.1",
+		"MrCaterpillar2_4_1":"श्रीमान कैटरपिलर\n2.4.1",
+		"MrCaterpillar2_5_1":"श्रीमान कैटरपिलर\n2.5.1",
+		"NumberPuzzle2_6_1":"अंक पहेली\n2.6.1",
+
+		"MrCaterpillar2_1_2":"श्रीमान कैटरपिलर\n2.1.2",
+		"MrCaterpillar2_2_2":"श्रीमान कैटरपिलर\n2.2.2",
+		"MrCaterpillar2_3_2":"श्रीमान कैटरपिलर\n2.3.2",
+		"MrCaterpillar2_4_2":"श्रीमान कैटरपिलर\n2.4.2",
+		"MrCaterpillar2_5_2":"श्रीमान कैटरपिलर\n2.5.2",
+		"NumberPuzzle2_6_2":"अंक पहेली\n2.6.2",
+
+		"MrCaterpillar2_1_3":"श्रीमान कैटरपिलर\n2.1.3",
+		"MrCaterpillar2_2_3":"श्रीमान कैटरपिलर\n2.2.3",
+		"MrCaterpillar2_3_3":"श्रीमान कैटरपिलर\n2.3.3",
+		"MrCaterpillar2_4_3":"श्रीमान कैटरपिलर\n2.4.3",
+		"MrCaterpillar2_5_3":"श्रीमान कैटरपिलर\n2.5.3",
+		"NumberPuzzle2_6_3":"अंक पहेली\n2.6.3",
+
+
+		"placeValueTitle":"जगह कीमत",
+		"CoinMachine3_1_1":"सिक्कों की मशीन\n3.1.1",
+		"CoinMachine3_2_1":"सिक्कों की मशीन\n3.2.1",
+
+		"CoinMachine3_1_2":"सिक्कों की मशीन\n3.1.2",
+		"CoinMachine3_2_2":"सिक्कों की मशीन\n3.2.2",
+
+
+		"additionTitle":"संकलन",
+		"HungryRabbit5_1":"भूखा खरगोश\n5.1",
+		"HungryRabbit6_1":"भूखा खरगोश\n6.1",
+		"CoinMachine7_1_1":"सिक्कों की मशीन\n7.1.1",
+		"CoinMachine7_2_1":"सिक्कों की मशीन\n7.2.1",
+
+		"CoinMachine7_1_2":"सिक्कों की मशीन\n7.1.2",
+		"CoinMachine7_2_2":"सिक्कों की मशीन\n7.2.2",
+
+		"CoinMachine7_1_3":"सिक्कों की मशीन\n7.1.3",
+		"CoinMachine7_2_3":"सिक्कों की मशीन\n7.2.3",
+
+
+		"subtractionTitle":"व्यवकलन",
+		"HungryRabbit8_1":"भूखा खरगोश\n8.1",
+		"CoinMachine10_1_1":"सिक्कों की मशीन\n10.1.1",
+		"CoinMachine10_2_1":"सिक्कों की मशीन\n10.2.1",
+
+		"CoinMachine10_1_2":"सिक्कों की मशीन\n10.1.2",
+		"CoinMachine10_2_2":"सिक्कों की मशीन\n10.2.2",
+
+		"CoinMachine10_1_3":"सिक्कों की मशीन\n10.1.3",
+		"CoinMachine10_2_3":"सिक्कों की मशीन\n10.2.3",
+
+
+		"multiplicationTitle":"गुणा करना",
+		"AforApple11_1":"ए फ़ॉर एपल\n11.1",
+		"AforApple11_2":"ए फ़ॉर एपल\n11.2",
+
+
+		"Mulitiplication12_1":"एकक्रेटमेंअंडे\n12.1",
+		"Mulitiplication12_2":"एकक्रेटमेंअंडे\n12.2",
+		"Mulitiplication12_3_1":"एकक्रेटमेंअंडे\n12.3.1",
+		"Mulitiplication12_3_2":"एकक्रेटमेंअंडे\n12.3.2",
+		"Mulitiplication12_3_3":"एकक्रेटमेंअंडे\n12.3.3",
+
+		"Mulitiplication13_1":"ग्रिडपहेली\n13.1",
+		"Mulitiplication14_1":"ग्रिडपहेली\n14.1",
+		"Mulitiplication14_2":"ग्रिडपहेली\n14.2",
+
+		"divisionTitle":"विभाजन",
+		"FishInATank15_1":"टैंकमेंमछली\n15.1",
+		"FishInATank15_2":"टैंकमेंमछली\n15.2",
+
+		"CoinMachine17_2":"सिक्कों की मशीन\n17.2",
+		"CoinMachine17_3":"सिक्कों की मशीन\n17.3"
+
+    },
+    "kan": { 
+		"grade1": "ಕ್ಲಾಸ್ 1",
+		"grade2": "ಕ್ಲಾಸ್ 2",
+		"grade3": "ಕ್ಲಾಸ್ 3",
+		"grade4": "ಕ್ಲಾಸ್ 4",
+		
+        "fractionTitle": "ಗಿರ್ಗಿಟ್", 
+        "fraction1_1ADesc": "ಗಿರ್ಗಿಟ್ 1.1 A", 
+        "fraction1_1BDesc": "ಗಿರ್ಗಿಟ್ 1.1 B", 
+        "fraction1_2ADesc": "ಗಿರ್ಗಿಟ್ 1.2 A", 
+        "fraction1_2BDesc": "ಗಿರ್ಗಿಟ್ 1.2 B", 
+        "fraction1_2CDesc": "ಗಿರ್ಗಿಟ್ 1.2 C", 
+		
+		"lengthTitle":"ಉದ್ದಳತೆ",
+		"length2_ADesc":"ಉದ್ದಳತೆ 2.1 A",
+		"length2_BDesc":"ಉದ್ದಳತೆ 2.1 B",
+		"length2_2Desc":"ಉದ್ದಳತೆ 2.2",
+		"length2_3Desc":"ಉದ್ದಳತೆ 2.3",
+		"length2_4ADesc":"ಉದ್ದಳತೆ 2.4 A",
+		"length2_4BDesc":"ಉದ್ದಳತೆ 2.4 B",
+		
+		"weightTitle":"ತೂಕದ ಅಳತೆ",
+		"weight3_1Desc":"ತೂಕದ ಅಳತೆ 3.1",
+		"weight3_2ADesc":"ತೂಕದ ಅಳತೆ 3.2 A",
+		"weight3_2BDesc":"ತೂಕದ ಅಳತೆ 3.2 B",
+		"weight3_2CDesc":"ತೂಕದ ಅಳತೆ 3.2 C",
+		"weight3_2DDesc":"ತೂಕದ ಅಳತೆ 3.2 D",
+		"weight3_3ADesc":"ತೂಕದ ಅಳತೆ 3.3 A",
+		"weight3_3B1Desc":"ತೂಕದ ಅಳತೆ 3.3 B1",
+		"weight3_3B2Desc":"ತೂಕದ ಅಳತೆ 3.3 B2",
+
+		"volumeTitle":"ದ್ರವದ ಅಳತೆ",
+		"volume4_1ADesc":"ದ್ರವದ ಅಳತೆ 4.1 A",
+		"volume4_1BDesc":"ದ್ರವದ ಅಳತೆ 4.1 B",
+		"volume4_1CDesc":"ದ್ರವದ ಅಳತೆ 4.1 C",
+		"volume4_2ADesc":"ದ್ರವದ ಅಳತೆ 4.2 A",
+		"volume4_2BDesc":"ದ್ರವದ ಅಳತೆ 4.2 B",
+		"volume4_2CDesc":"ದ್ರವದ ಅಳತೆ 4.2 C",
+		"volume4_3ADesc":"ದ್ರವದ ಅಳತೆ 4.3 A",
+		"volume4_3BDesc":"ದ್ರವದ ಅಳತೆ 4.3 B",
+		"volume4_3CDesc":"ದ್ರವದ ಅಳತೆ 4.3 C",
+		
+		"timeTitle":"ಸಮಯ",
+		"time5_1Desc":"ಸಮಯ 5.1",
+		"time5_2Desc":"ಸಮಯ 5.2",
+		"time5_4Desc":"ಸಮಯ 5.4",
+		"time6_1Desc":"ಸಮಯ 6.1",
+		"time6_2Desc":"ಸಮಯ 6.2",
+		"time7_1Desc":"ಸಮಯ 7.1",
+		"time7_2Desc":"ಸಮಯ 7.2",
+
+		"numberTitle":"ಸಂಖ್ಯೆಗಳು",
+		"CountingIcecreams" : "ಐಸ್ಕ್ರೀಂ ಎಣಿಸು\n1.1",
+		"PluckingMangoes" : "ಮಾವಿನಹಣ್ಣು ಕೀಳು\n1.2",
+		"CountingFish" : "ಮೀನನ್ನು ಎಣಿಸು\n1.3",
+		"CountingFlowers" : "ಹೂವು ಎಣಿಸು\n1.4",
+		"PluckingMangoes" : "ಮಾವಿನಹಣ್ಣು ಕೀಳು\n1.5",
+		"BurstingBubbles" : "ಗುಳ್ಳೆಗಳನ್ನು ವಡೆ\n1.6",
+		"TracingNumbers" : "ಸಂಖ್ಯೆ ಬರೆಯುವುದು\n1.7",
+
+
+		"TheCrocodile4_1_1" : "ಮೊಸಳೆ\n4.1.1",
+		"TheCrocodile4_2_1" : "ಮೊಸಳೆ\n4.2.1",
+		"TheCrocodile4_3_1" : "ಮೊಸಳೆ\n4.3.1",
+		"TreeClimbing4_4_1" : "ಮರ ಹತ್ತು\n4.4.1",
+		"TreeClimbing4_5_1" : "ಮರ ಹತ್ತು\n4.5.1",
+
+		"TheCrocodile4_3_2" : "ಮೊಸಳೆ\n4.3.2",
+		"TreeClimbing4_4_2" : "ಮರ ಹತ್ತು\n4.4.2",
+		"TreeClimbing4_5_2" : "ಮರ ಹತ್ತು\n4.5.2",
+		"TreeClimbing4_5_2" : "ಮರ ಹತ್ತು\n4.5.2",
+		"SmallorBig4_6_1" : "ದೊಡ್ಡದಾ ಚಿಕ್ಕದಾ\n4.6.1",
+
+		"TheCrocodile4_3_3" : "ಮೊಸಳೆ\n4.3.3",
+		"TreeClimbing4_4_3" : "ಮರ ಹತ್ತು\n4.4.3",
+		"TreeClimbing4_5_3" : "ಮರ ಹತ್ತು\n4.5.3",
+		"TreeClimbing4_5_3" : "ಮರ ಹತ್ತು\n4.5.3",
+		"SmallorBig4_6_2" : "ದೊಡ್ಡದಾ ಚಿಕ್ಕದಾ\n4.6.2",
+
+
+		"sequenceTitle":"ಅನುಕ್ರಮ",
+		"MrCaterpillar2_1_1":"ಕಂಬಳಿಹುಳ\n2.1.1",
+		"MrCaterpillar2_2_1":"ಕಂಬಳಿಹುಳ\n2.2.1",
+		"MrCaterpillar2_3_1":"ಕಂಬಳಿಹುಳ\n2.3.1",
+		"MrCaterpillar2_4_1":"ಕಂಬಳಿಹುಳ\n2.4.1",
+		"MrCaterpillar2_5_1":"ಕಂಬಳಿಹುಳ\n2.5.1",
+		"NumberPuzzle2_6_1":"ಸಂಖ್ಯೆ ಒಗಟು\n2.6.1",
+
+		"MrCaterpillar2_1_2":"ಕಂಬಳಿಹುಳ\n2.1.2",
+		"MrCaterpillar2_2_2":"ಕಂಬಳಿಹುಳ\n2.2.2",
+		"MrCaterpillar2_3_2":"ಕಂಬಳಿಹುಳ\n2.3.2",
+		"MrCaterpillar2_4_2":"ಕಂಬಳಿಹುಳ\n2.4.2",
+		"MrCaterpillar2_5_2":"ಕಂಬಳಿಹುಳ\n2.5.2",
+		"NumberPuzzle2_6_2":"ಸಂಖ್ಯೆ ಒಗಟು\n2.6.2",
+
+		"MrCaterpillar2_1_3":"ಕಂಬಳಿಹುಳ\n2.1.3",
+		"MrCaterpillar2_2_3":"ಕಂಬಳಿಹುಳ\n2.2.3",
+		"MrCaterpillar2_3_3":"ಕಂಬಳಿಹುಳ\n2.3.3",
+		"MrCaterpillar2_4_3":"ಕಂಬಳಿಹುಳ\n2.4.3",
+		"MrCaterpillar2_5_3":"ಕಂಬಳಿಹುಳ\n2.5.3",
+		"NumberPuzzle2_6_3":"ಸಂಖ್ಯೆ ಒಗಟು\n2.6.3",
+
+		"placeValueTitle":"ಸ್ಥಳ ಮೌಲ್ಯ",
+		"CoinMachine3_1_1":"ನಾಣ್ಯ ಯಂತ್ರ\n3.1.1",
+		"CoinMachine3_2_1":"ನಾಣ್ಯ ಯಂತ್ರ\n3.2.1",
+
+		"CoinMachine3_1_2":"ನಾಣ್ಯ ಯಂತ್ರ\n3.1.2",
+		"CoinMachine3_2_2":"ನಾಣ್ಯ ಯಂತ್ರ\n3.2.2",
+
+
+		"additionTitle":"ಸಂಕಲನ",
+		"HungryRabbit5_1":"ಹಸಿದ ಮೊಲ\n5.1",
+		"HungryRabbit6_1":"ಹಸಿದ ಮೊಲ\n6.1",
+		"CoinMachine7_1_1":"ನಾಣ್ಯ ಯಂತ್ರ\n7.1.1",
+		"CoinMachine7_2_1":"ನಾಣ್ಯ ಯಂತ್ರ\n7.2.1",
+
+		"CoinMachine7_1_2":"ನಾಣ್ಯ ಯಂತ್ರ\n7.1.2",
+		"CoinMachine7_2_2":"ನಾಣ್ಯ ಯಂತ್ರ\n7.2.2",
+
+		"CoinMachine7_1_3":"ನಾಣ್ಯ ಯಂತ್ರ\n7.1.3",
+		"CoinMachine7_2_3":"ನಾಣ್ಯ ಯಂತ್ರ\n7.2.3",
+
+
+		"subtractionTitle":"ವ್ಯವಕಲನ",
+		"HungryRabbit8_1":"ಹಸಿದ ಮೊಲ\n8.1",
+		"CoinMachine10_1_1":"ನಾಣ್ಯ ಯಂತ್ರ\n10.1.1",
+		"CoinMachine10_2_1":"ನಾಣ್ಯ ಯಂತ್ರ\n10.2.1",
+
+		"CoinMachine10_1_2":"ನಾಣ್ಯ ಯಂತ್ರ\n10.1.2",
+		"CoinMachine10_2_2":"ನಾಣ್ಯ ಯಂತ್ರ\n10.2.2",
+
+		"CoinMachine10_1_3":"ನಾಣ್ಯ ಯಂತ್ರ\n10.1.3",
+		"CoinMachine10_2_3":"ನಾಣ್ಯ ಯಂತ್ರ\n10.2.3",
+
+
+		"multiplicationTitle":"ಗುಣಾಕಾರ",
+		"AforApple11_1":"ಅಪ್ಪಲ್\n11.1",
+		"AforApple11_2":"ಅಪ್ಪಲ್\n11.2",
+
+		"Mulitiplication12_1":"ಮೊಟ್ಟೆಯಬುಟ್ಟಿ\n12.1",
+		"Mulitiplication12_2":"ಮೊಟ್ಟೆಯಬುಟ್ಟಿ\n12.2",
+		"Mulitiplication12_3_1":"ಮೊಟ್ಟೆಯಬುಟ್ಟಿ\n12.3.1",
+		"Mulitiplication12_3_2":"ಮೊಟ್ಟೆಯಬುಟ್ಟಿ\n12.3.2",
+		"Mulitiplication12_3_3":"ಮೊಟ್ಟೆಯಬುಟ್ಟಿ\n12.3.3",
+
+		"Mulitiplication13_1":"ಗ್ರಿಡ್ಒಗಟು\n13.1",
+		"Mulitiplication14_1":"ಗ್ರಿಡ್ಒಗಟು\n14.1",
+		"Mulitiplication14_2":"ಗ್ರಿಡ್ಒಗಟು\n14.2",
+
+		"divisionTitle":"ಭಾಗಾಕಾರ",
+		"FishInATank15_1":"ಅಕ್ವೇರಿಯಂ\n15.1",
+		"FishInATank15_2":"ಅಕ್ವೇರಿಯಂ\n15.2",
+
+		"CoinMachine17_2":"ನಾಣ್ಯ ಯಂತ್ರ\n17.2",
+		"CoinMachine17_3":"ನಾಣ್ಯ ಯಂತ್ರ\n17.3"
+        
+    },
+    "od": { 
+		"grade1": "ଶ୍ରେଣୀ 1",
+		"grade2": "ଶ୍ରେଣୀ 2",
+		"grade3": "ଶ୍ରେଣୀ 3",
+		"grade4": "ଶ୍ରେଣୀ 4",
+		
+        "fractionTitle": "ଭଗ୍ନାଂଶ", 
+        "fraction1_1ADesc": "ଭଗ୍ନାଂଶ 1.1 A", 
+        "fraction1_1BDesc": "ଭଗ୍ନାଂଶ 1.1 B", 
+        "fraction1_2ADesc": "ଭଗ୍ନାଂଶ 1.2 A", 
+        "fraction1_2BDesc": "ଭଗ୍ନାଂଶ 1.2 B", 
+        "fraction1_2CDesc": "ଭଗ୍ନାଂଶ 1.2 C", 
+		
+		"lengthTitle":"ଲମ୍ବ",
+		"length2_ADesc":"ଲମ୍ବ 2.1 A",
+		"length2_BDesc":"ଲମ୍ବ 2.1 B",
+		"length2_2Desc":"ଲମ୍ବ 2.2",
+		"length2_3Desc":"ଲମ୍ବ 2.3",
+		"length2_4ADesc":"ଲମ୍ବ 2.4 A",
+		"length2_4BDesc":"ଲମ୍ବ 2.4 B",
+		
+		"weightTitle":"ଓଜନ",
+		"weight3_1Desc":"ଓଜନ 3.1",
+		"weight3_2ADesc":"ଓଜନ 3.2 A",
+		"weight3_2BDesc":"ଓଜନ 3.2 B",
+		"weight3_2CDesc":"ଓଜନ 3.2 C",
+		"weight3_2DDesc":"ଓଜନ 3.2 D",
+		"weight3_3ADesc":"ଓଜନ 3.3 A",
+		"weight3_3B1Desc":"ଓଜନ 3.3 B1",
+		"weight3_3B2Desc":"ଓଜନ 3.3 B2",
+
+		"volumeTitle":"ଆୟତନ",
+		"volume4_1ADesc":"ଆୟତନ 4.1 A",
+		"volume4_1BDesc":"ଆୟତନ 4.1 B",
+		"volume4_1CDesc":"ଆୟତନ 4.1 C",
+		"volume4_2ADesc":"ଆୟତନ 4.2 A",
+		"volume4_2BDesc":"ଆୟତନ 4.2 B",
+		"volume4_2CDesc":"ଆୟତନ 4.2 C",
+		"volume4_3ADesc":"ଆୟତନ 4.3 A",
+		"volume4_3BDesc":"ଆୟତନ 4.3 B",
+		"volume4_3CDesc":"ଆୟତନ 4.3 C",
+		
+		"timeTitle":"ସମୟ",
+		"time5_1Desc":"ସମୟ 5.1",
+		"time5_2Desc":"ସମୟ 5.2",
+		"time5_4Desc":"ସମୟ 5.4",
+		"time6_1Desc":"ସମୟ 6.1",
+		"time6_2Desc":"ସମୟ 6.2",
+		"time7_1Desc":"ସମୟ 7.1",
+		"time7_2Desc":"ସମୟ 7.2",
+
+		"numberTitle":"NUMBERS",
+		"CountingIcecreams" : "ଆଇସ-କ୍ରୀମ ଗଣିବା\n1.1",
+		"PluckingMangoes" : "ଆମ୍ବ ତୋଳିବା\n1.2",
+		"CountingFish" : "Counting Fish\n1.3",
+		"CountingFlowers" : "Counting Flowers\n1.4",
+		"PluckingMangoes" : "ଆମ୍ବ ତୋଳିବା\n1.5",
+		"BurstingBubbles" : "ଫେଣ ଫୁଟାଇବା\n1.6",
+		"TracingNumbers" : "ସଂଖ୍ୟା ଲେଖିବା\n1.7",
+
+		"TheCrocodile4_1_1" : "କୁମ୍ଭୀର ଖେଳ\n4.1.1",
+		"TheCrocodile4_2_1" : "କୁମ୍ଭୀର ଖେଳ\n4.2.1",
+		"TheCrocodile4_3_1" : "କୁମ୍ଭୀର ଖେଳ\n4.3.1",
+		"TreeClimbing4_4_1" : "ଗଛ ଚଢ଼ିବା\n4.4.1",
+		"TreeClimbing4_5_1" : "ଗଛ ଚଢ଼ିବା\n4.5.1",
+
+		"TheCrocodile4_3_2" : "କୁମ୍ଭୀର ଖେଳ\n4.3.2",
+		"TreeClimbing4_4_2" : "ଗଛ ଚଢ଼ିବା\n4.4.2",
+		"TreeClimbing4_5_2" : "ଗଛ ଚଢ଼ିବା\n4.5.2",
+		"TreeClimbing4_5_2" : "ଗଛ ଚଢ଼ିବା\n4.5.2",
+		"SmallorBig4_6_1" : "ସାନ ଓ ବଡ଼\n4.6.1",
+
+		"TheCrocodile4_3_3" : "କୁମ୍ଭୀର ଖେଳ\n4.3.3",
+		"TreeClimbing4_4_3" : "ଗଛ ଚଢ଼ିବା\n4.4.3",
+		"TreeClimbing4_5_3" : "ଗଛ ଚଢ଼ିବା\n4.5.3",
+		"TreeClimbing4_5_3" : "ଗଛ ଚଢ଼ିବା\n4.5.3",
+		"SmallorBig4_6_2" : "ସାନ ଓ ବଡ଼\n4.6.2",
+
+
+		"sequenceTitle":"SEQUENCE",
+		"MrCaterpillar2_1_1":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.1.1",
+		"MrCaterpillar2_2_1":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.2.1",
+		"MrCaterpillar2_3_1":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.3.1",
+		"MrCaterpillar2_4_1":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.4.1",
+		"MrCaterpillar2_5_1":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.5.1",
+		"NumberPuzzle2_6_1":"ସଂଖ୍ୟା ଖେଳ\n2.6.1",
+
+		"MrCaterpillar2_1_2":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.1.2",
+		"MrCaterpillar2_2_2":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.2.2",
+		"MrCaterpillar2_3_2":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.3.2",
+		"MrCaterpillar2_4_2":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.4.2",
+		"MrCaterpillar2_5_2":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.5.2",
+		"NumberPuzzle2_6_2":"ସଂଖ୍ୟା ଖେଳ\n2.6.2",
+
+		"MrCaterpillar2_1_3":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.1.3",
+		"MrCaterpillar2_2_3":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.2.3",
+		"MrCaterpillar2_3_3":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.3.3",
+		"MrCaterpillar2_4_3":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.4.3",
+		"MrCaterpillar2_5_3":"ଶ୍ରୀ ସମ୍ବାଳୁଆ\n2.5.3",
+		"NumberPuzzle2_6_3":"ସଂଖ୍ୟା ଖେଳ\n2.6.3",
+
+		"placeValueTitle":"Place Value",
+		"CoinMachine3_1_1":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n3.1.1",
+		"CoinMachine3_2_1":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n3.2.1",
+
+		"CoinMachine3_1_2":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n3.1.2",
+		"CoinMachine3_2_2":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n3.2.2",
+
+
+		"additionTitle":"ADDITION",
+		"HungryRabbit5_1":"ଭୋକିଲା ଠେକୁଆ\n5.1",
+		"HungryRabbit6_1":"ଭୋକିଲା ଠେକୁଆ\n6.1",
+		"CoinMachine7_1_1":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n7.1.1",
+		"CoinMachine7_2_1":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n7.2.1",
+
+		"CoinMachine7_1_2":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n7.1.2",
+		"CoinMachine7_2_2":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n7.2.2",
+
+		"CoinMachine7_1_3":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n7.1.3",
+		"CoinMachine7_2_3":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n7.2.3",
+
+		"subtractionTitle":"SUBTRACTION",
+		"HungryRabbit8_1":"ଭୋକିଲା ଠେକୁଆ\n8.1",
+		"CoinMachine10_1_1":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n10.1.1",
+		"CoinMachine10_2_1":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n10.2.1",
+
+		"CoinMachine10_1_2":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n10.1.2",
+		"CoinMachine10_2_2":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n10.2.2",
+
+		"CoinMachine10_1_3":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n10.1.3",
+		"CoinMachine10_2_3":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n10.2.3",
+
+
+		"multiplicationTitle":"MULTIPLICATION",
+		"AforApple11_1":"A ରେ Apple\n11.1",
+		"AforApple11_2":"A ରେ Apple\n11.2",
+
+		"Mulitiplication12_1":"ଅଣ୍ଡା ଝୁଡ଼ି\n12.1",
+		"Mulitiplication12_2":"ଅଣ୍ଡା ଝୁଡ଼ି\n12.2",
+		"Mulitiplication12_3_1":"ଅଣ୍ଡା ଝୁଡ଼ି\n12.3.1",
+		"Mulitiplication12_3_2":"ଅଣ୍ଡା ଝୁଡ଼ି\n12.3.2",
+		"Mulitiplication12_3_3":"ଅଣ୍ଡା ଝୁଡ଼ି\n12.3.3",
+
+		"Mulitiplication13_1":"ଗ୍ରୀଡ଼ ଖେଳ\n13.1",
+		"Mulitiplication14_1":"ଗ୍ରୀଡ଼ ଖେଳ\n14.1",
+		"Mulitiplication14_2":"ଗ୍ରୀଡ଼ ଖେଳ\n14.2",
+
+		"divisionTitle":"DIVISION",
+		"FishInATank15_1":"ଟାଙ୍କିରେ ମାଛ\n15.1",
+		"FishInATank15_2":"ଟାଙ୍କିରେ ମାଛ\n15.2",
+
+		"CoinMachine17_2":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n17.2",
+		"CoinMachine17_3":"ମୁଦ୍ରା ଯନ୍ତ୍ର\n17.3"
+
+        
+    }
+}
