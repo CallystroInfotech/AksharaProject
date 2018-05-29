@@ -14,3 +14,13 @@ The new journeys 4, 12, 13, 14, 15
 Inclusion of Oriya language
 Demo scripts for coin machine games and 14.1 and 14.2
 Defect fixes (not too many defects fixed in this release) marked as V0.18 
+
+5. Release Version: math-html-master-v19
+Release Date: May 16, 2018
+Release contains the following:
+
+1. Journey 16 games
+2. Additional set of journey 2 games
+3. Loading issues coming due to demo videos fixed.
+3. Defect fixes as marked in https://docs.google.com/spreadsheets/d/1s3zgSrNKt6i5DO6UVFNb_V34KC48li96cloqpE-sF3k/edit#gid=1680860463
+
