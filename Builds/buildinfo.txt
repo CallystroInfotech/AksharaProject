@@ -24,3 +24,13 @@ Release contains the following:
 3. Loading issues coming due to demo videos fixed.
 3. Defect fixes as marked in https://docs.google.com/spreadsheets/d/1s3zgSrNKt6i5DO6UVFNb_V34KC48li96cloqpE-sF3k/edit#gid=1680860463
 
+6. BuildingBlocks-McPackageDownload
+Version which allows micro concept level downloads. This packaging type has been put on hold.
+
+7. BuildingBlocks-v1.0.0-3
+Building Blocks version allowing package downloads once user registers.
+Game package downloaded once.
+Language packages downloaded whenever a user register with a new language option.
+Defects fixed as in https://docs.google.com/spreadsheets/d/1s3zgSrNKt6i5DO6UVFNb_V34KC48li96cloqpE-sF3k/edit?ts=5b4b3a67#gid=234823809
+go_live_defects_june14
+
