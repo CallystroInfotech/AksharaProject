@@ -24,13 +24,28 @@ Release contains the following:
 3. Loading issues coming due to demo videos fixed.
 3. Defect fixes as marked in https://docs.google.com/spreadsheets/d/1s3zgSrNKt6i5DO6UVFNb_V34KC48li96cloqpE-sF3k/edit#gid=1680860463
 
-6. BuildingBlocks-McPackageDownload
+6. Release Version: v0.0.20
+Release Date: 6th June 2018
+Release contains:
+
+Memory optimisations: The main app is 10MB now. Rest of the content will be downloaded from the cloud upon registration. Sound files will also be downloaded based on the language chosen. 
+New game wrapper with micro concepts and concepts listed grade wise.
+Defects fixes as marked in the defect sheet.
+Fraction changed games
+New journey 3 and 4 games that were pending due to VOs.
+
+
+7. BuildingBlocks-McPackageDownload
 Version which allows micro concept level downloads. This packaging type has been put on hold.
 
-7. BuildingBlocks-v1.0.0-3
+8. BuildingBlocks-v1.0.0-3: Playstore version: v1.0.0
 Building Blocks version allowing package downloads once user registers.
 Game package downloaded once.
 Language packages downloaded whenever a user register with a new language option.
 Defects fixed as in https://docs.google.com/spreadsheets/d/1s3zgSrNKt6i5DO6UVFNb_V34KC48li96cloqpE-sF3k/edit?ts=5b4b3a67#gid=234823809
 go_live_defects_june14
 
+9.BuildingBlocks-v1.0.0-4.
+Release Date: 27/7/18
+Playstore release:
+Build after defect fixes. Listed in go_live_July20version
