@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    android:theme="@style/Theme.Transparent"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/transparent"
+        android:scaleType="fitXY"
+        android:alpha="1"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <!--<ImageView
+            android:id="@+id/imageView"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_marginBottom="150dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="150dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/exit_bg"
+             />-->
+
+        <com.akshara.mathapp.view.FontTextView
+            android:id='@+id/exitText'
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:paddingTop="40dp"
+            android:paddingBottom="120dp"
+            android:paddingStart="50dp"
+            android:paddingEnd="50dp"
+            android:text="@string/exitText"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="22sp"
+            android:background="@drawable/exitbg_color_accent_rounded_corners_dot_border_white"
+            app:layout_constraintTop_toTopOf="parent" />
+
+       <!-- <ImageButton
+            android:id="@+id/exitCancel"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="160dp"
+            android:layout_marginTop="120dp"
+            android:background="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/confirm_bg"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" /> -->
+
+        <com.akshara.mathapp.view.FontTextView
+            android:id='@+id/exitCancelText'
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="25dp"
+            android:layout_marginTop="140dp"
+            android:background="@drawable/exit_confirm_cancel_bg_color_accent_rounded_corners_dot_border_white"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/cancelText"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!--<ImageButton
+            android:id="@+id/exitConfirm"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="120dp"
+            android:background="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/confirm_bg"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />-->
+
+        <com.akshara.mathapp.view.FontTextView
+            android:id='@+id/exitConfirmText'
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="140dp"
+            android:background="@drawable/exit_confirm_cancel_bg_color_accent_rounded_corners_dot_border_white"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/confirmText"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toStartOf="@+id/exitCancelText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </android.support.constraint.ConstraintLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="DEBUG_MODE">false</bool>
+    <!--<string name="BASE_URL">https://abbmath.klp.org.in/</string>-->
+    <string name="BASE_URL">https://abbmath.klp.org.in/abbchmprm/</string>
+</resources>
