@@ -1,0 +1,89 @@
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+
+android {
+    compileSdkVersion 29
+    defaultConfig {
+        applicationId "com.akshara.easymath"
+        minSdkVersion 19
+        targetSdkVersion 29
+        versionCode 27
+        versionName "6.0.2"
+        ndk.abiFilters 'armeabi-v7a','arm64-v8a','x86','x86_64'
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    packagingOptions {
+        pickFirst 'META-INF/LICENSE.txt' // picks the JavaMail license file
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+        exclude 'META-INF/NOTICE'
+    }
+}
+
+/*repositories {
+    maven{
+        url 'https://sdk.uxcam.com/android/'
+    }
+}*/
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.browser:browser:1.0.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'androidx.room:room-runtime:2.1.0'
+    implementation 'com.google.firebase:firebase-core:17.2.0'
+    implementation 'com.google.firebase:firebase-database:19.0.0'
+    annotationProcessor 'androidx.room:room-compiler:2.1.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    implementation 'com.nononsenseapps:filepicker:4.1.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation 'org.greenrobot:eventbus:3.0.0'
+    implementation "com.google.code.gson:gson:$rootProject.ext.gsonVersion"
+    implementation 'com.jakewharton:butterknife:7.0.1'
+
+
+    implementation 'com.github.barteksc:android-pdf-viewer:2.3.0'
+
+    annotationProcessor 'com.jakewharton:butterknife:7.0.1'
+    implementation "com.google.android.gms:play-services-location:17.0.0"
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    implementation 'io.sentry:sentry-android:1.7.10'
+
+    implementation 'com.codemybrainsout.rating:ratingdialog:1.0.8'
+
+    // use whatever the current version is...
+    implementation 'com.sun.mail:android-mail:1.6.2'
+    implementation 'com.sun.mail:android-activation:1.6.2'
+
+    implementation 'com.google.firebase:firebase-messaging:20.0.0'
+    implementation 'com.google.android.gms:play-services-auth:17.0.0'
+
+    // Add dependency
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
+
+    //user experior
+    //implementation 'com.userexperior:userexperior-android:+'
+
+    //implementation 'com.uxcam:uxcam:3.1.3@aar'
+
+}
+
+apply plugin: 'com.google.gms.google-services'
